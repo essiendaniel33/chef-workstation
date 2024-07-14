@@ -1,0 +1,3 @@
+I, [2024-07-14T04:46:49.645317 #2199]  INFO -- default-rhel9: -----> Destroying <default-rhel9>...
+I, [2024-07-14T04:46:50.128988 #2199]  INFO -- default-rhel9: EC2 instance <i-02f5d954744851848> destroyed.
+I, [2024-07-14T04:46:50.129752 #2199]  INFO -- default-rhel9: Finished destroying <default-rhel9> (0m0.48s).

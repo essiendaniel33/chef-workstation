@@ -1,0 +1,42 @@
+{
+  "revision_id": "3b1c25ad7928d747c0cbdaa6a3965a0e56b5251f312166f10426773206830515",
+  "name": "sgl-base-cookbook",
+  "run_list": [
+    "recipe[sgl-base-cookbook::default]"
+  ],
+  "included_policy_locks": [
+
+  ],
+  "cookbook_locks": {
+    "sgl-base-cookbook": {
+      "version": "0.1.0",
+      "identifier": "bba65f9801fa526fcf504846fe2cf7404a79d875",
+      "dotted_decimal_identifier": "52818750147263058.31471666131828268.271855499466869",
+      "source": ".",
+      "cache_key": null,
+      "scm_info": null,
+      "source_options": {
+        "path": "."
+      }
+    }
+  },
+  "default_attributes": {
+
+  },
+  "override_attributes": {
+
+  },
+  "solution_dependencies": {
+    "Policyfile": [
+      [
+        "sgl-base-cookbook",
+        ">= 0.0.0"
+      ]
+    ],
+    "dependencies": {
+      "sgl-base-cookbook (0.1.0)": [
+
+      ]
+    }
+  }
+}

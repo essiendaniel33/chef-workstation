@@ -1,0 +1,8 @@
+name: sgl-base-cookbook
+title: Smoke Tests for sgl-base-cookbook
+version: 0.1.0
+summary: Smoke tests to validate sgl-base-cookbook functionality.
+maintainer: Your Name
+license: Apache-2.0
+copyright: Your Company
+
